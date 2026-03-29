@@ -53,8 +53,6 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn jupyter
 
 ## Data Setup
 
-Place the following files inside a `data/` directory before running:
-
 * `fear_greed_index.csv` — Bitcoin Fear & Greed Index
 * `historical_data.csv` — Hyperliquid trade history
 
